@@ -21,10 +21,10 @@ function findMedianSortedArrays(nums1: number[], nums2: number[]): number {
 };
 // @lc code=end
 
-findMedianSortedArrays([1,2,3,6,9], [2,4,5]); //?
+// findMedianSortedArrays([1,2,3,6,9], [2,4,5]); //?
 
-findMedianSortedArrays([1,2,3,4,5,6,9], [2,5]); //? 
+// findMedianSortedArrays([1,2,3,4,5,6,9], [2,5]); //? 
 
-findMedianSortedArrays([1,2], [2,4]); //? 
+// findMedianSortedArrays([1,2], [2,4]); //? 
 
-findMedianSortedArrays([3], [-2,-1]); //? 
+// findMedianSortedArrays([3], [-2,-1]); //? 
